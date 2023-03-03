@@ -125,7 +125,7 @@ span {
 
 .nav {
     list-style: none;
-    display: flex;
+    display: flex!important;
     justify-content: center;
     align-items: center;
     gap: 2em;
@@ -999,7 +999,7 @@ footer .copy {
     position: relative;
     background: transparent;
     border: 1px solid #202020;
-    z-index: 5;
+    z-index: 5000;
     border-radius: 30px;
     bottom: 0%;
     right: 2%;
@@ -1426,6 +1426,11 @@ footer .copy {
         transform: translate(-3%, 0);
         border-radius: 0 30px 30px 0;
     }
+    .testimonial-box{
+        width: 100%!important;
+        height: 350px!important;
+        margin: 0 auto;
+    }
 
     .testimonial-p {
         font-size: 14px;
@@ -1434,6 +1439,14 @@ footer .copy {
 
     .testimonial-auth {
         font-size: 16px;
+        text-align: left;
+        margin-left: 60px;
+    }
+    .testimonial-auth::before{
+        left: -15%;
+    }
+    .memImg{
+        width: 200px;
     }
 }
 @media(max-width:380px){
