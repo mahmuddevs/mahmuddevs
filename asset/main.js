@@ -14,7 +14,7 @@ menuBtn.addEventListener('click', () => {
         menuOpen = true
         m_menu.style.top = 0;
         m_menu.style.backgroundColor = '#000000';
-        m_menu.style.zIndex=9999;
+        m_menu.style.zIndex=999999;
     }
 
 })
@@ -24,12 +24,12 @@ menuCloseBtn.addEventListener('click', () => {
     m_menu.style.top = -120 + "%"
     menuOpen = false;
     m_menu.style.backgroundColor = '#ffffff';
-    m_menu.style.zIndex=9999;
+    m_menu.style.zIndex=0;
 })
 
 watch_videoBtn.addEventListener('click', () => {
     watch_video.style.display='block'
-    watch_video.style.zIndex=9999
+    watch_video.style.zIndex=99999
 })
 
 close_video.addEventListener('click', () => {
