@@ -769,7 +769,7 @@ footer .copy {
 }
 
 .testimonial-wrapper {
-    background: url('/images/Path-9582x.png') no-repeat;
+    background: url('../images/Path-9582x.png') no-repeat;
     background-size: contain;
     background-position: left 2% top;
     height: 120%;
@@ -926,7 +926,7 @@ footer .copy {
 }
 
 .meetTeam {
-    background-image: url('/images/backgranod-Team-section.png');
+    background-image: url('../images/backgranod-Team-section.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1560,7 +1560,7 @@ footer .copy {
 }
 
 .contact-form-wrapper {
-    background: url('/images/background-srvices.png');
+    background: url('../images/background-srvices.png');
     background-size: cover;
     padding: 20em 0 5em 0;
     margin-top: -20em;
@@ -1678,7 +1678,7 @@ form.contact-form button {
 }
 
 .ab-banner-wrapper {
-    background-image: url('/images/waiting-for-a-taxi-PJ3UG67@2x.jpg');
+    background-image: url('../images/waiting-for-a-taxi-PJ3UG67@2x.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
