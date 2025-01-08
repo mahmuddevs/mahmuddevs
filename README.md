@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Mamud... from Uttara, Dhaka, Bangladesh.<br><br>    🔭 I’m a web developer building with React, Tailwind, MongoDB, and Firebase.<br>    📚 Currently diving deeper into backend and cloud technologies.<br>    🌱 I love exploring creative problem-solving in tech.<br>    🎮 I love exploring new video games in my spare time.<br>    🎯 Always eager to learn, grow, and share knowledge.</p>
+<p align="left">I'm Mamud... from Uttara, Dhaka, Bangladesh.<br><br>    🔭 I’m a web developer building with React, Tailwind, MongoDB, and Firebase.<br>    📚 Currently diving deeper into backend technologies.<br>    🌱 I love exploring creative problem-solving in tech.<br>    🎮 I love exploring new video games in my spare time.<br>    🎯 Always eager to learn, grow, and share knowledge.</p>
 
 ###
 
