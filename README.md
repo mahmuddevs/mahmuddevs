@@ -80,19 +80,23 @@
 ###
 
 <div align="center">
-
-  <!-- GitHub Stats & Most Used Languages -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mahmuddevs&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" width="48%" alt="GitHub Stats"/>
-  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmuddevs&layout=compact&langs_count=6&theme=dark&hide_border=false" width="48%" alt="Most Used Languages"/>
-  </div>
-
-  <!-- GitHub Streak -->
-  <br>
-  <img src="https://streak-stats.demolab.com?user=mahmuddevs&theme=dark&hide_border=false&border_radius=5" width="98%" alt="GitHub Streak"/>
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=mahmuddevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="Stats Graph" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmuddevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" alt="Languages Graph" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://streak-stats.demolab.com?user=mahmuddevs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="Streak Graph" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 ###
