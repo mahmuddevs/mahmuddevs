@@ -80,9 +80,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmuddevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmuddevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mahmuddevs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmuddevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" width="49%" alt="Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmuddevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" width="49%" alt="Languages Graph" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=mahmuddevs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="98%" alt="Streak Graph" />
+  
 </div>
 
 ###
