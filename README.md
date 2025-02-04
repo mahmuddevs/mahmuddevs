@@ -22,7 +22,9 @@
   <a href="https://wa.me/01875396416" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="41" height="29" alt="whatsapp logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="41" height="29" alt="gmail logo"  />
+  <a href="mailto:mahmudrashid574@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="41" height="29" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -31,11 +33,11 @@
 
 ###
 
-<p align="left">I'm Mamud... from Uttara, Dhaka, Bangladesh.<br><br>    🔭 I’m a web developer building with React, Tailwind, MongoDB, and Firebase.<br>    📚 Currently diving deeper into backend technologies.<br>    🌱 I love exploring creative problem-solving in tech.<br>    🎮 I love exploring new video games in my spare time.<br>    🎯 Always eager to learn, grow, and share knowledge.</p>
+<p align="left">I'm Mamud... from Uttara, Dhaka, Bangladesh.<br><br>    🔭 I’m a web developer building with React, Tailwind, MongoDB, and Firebase.<br>    📚 Currently diving deeper into backend and cloud technologies.<br>    🌱 I love exploring creative problem-solving in tech.<br>    🎮 I love exploring new video games in my spare time.<br>    🎯 Always eager to learn, grow, and share knowledge.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools:</h3>
 
 ###
 
@@ -46,7 +48,7 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="30" />
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="30" />
@@ -56,7 +58,19 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="30" />
-  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+</div>
+
+###
+
+<h3 align="left">🔍 Currently Exploring:</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
 ###
