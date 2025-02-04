@@ -80,23 +80,10 @@
 ###
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mahmuddevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="Stats Graph" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmuddevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" alt="Languages Graph" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://streak-stats.demolab.com?user=mahmuddevs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="Streak Graph" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmuddevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmuddevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mahmuddevs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="" alt="streak graph"  />
 </div>
-
 
 
 ###
